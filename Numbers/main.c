@@ -15,5 +15,6 @@ int main(int argc, const char * argv[]) {
   printf("In hexadecimal, x is %lx.\n", x);
   
   printf("3 * 3 + 5 * 2 = %d\n", 3 * 3 + 5 * 2);
+  printf("11 / 3 = %d\n", 11 / 3);
   return 0;
 }
